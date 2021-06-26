@@ -8,7 +8,7 @@ starbucks_colored_sticker.csv: 빨강, 하양 스티커(sticker) 가격 데이�
 
 starbucks_exchange_tiecket.csv: 상품 교환권(exchange ticket) 가격 데이터
 
-ticket price: 교환권 완성본 가격, stickers-to-get-a-ticket price: 흰새 스티커 14개 + 빨강 스티거 3개으 합산 가격 
+ticket price: 교환권 완성본 가격, stickers-to-get-a-ticket price: 흰새 스티커 14개 + 빨강 스티거 3개의 합산 가격 
 
 
 
