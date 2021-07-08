@@ -2,13 +2,16 @@
 
 ### Data
 
-중고나라에서 일자별 검색으로 획득
+starbucks_colored_sticker.csv: 빨강, 하양 스티커(sticker) 가격 데이터(2020, 2021)
 
-starbucks_colored_sticker.csv: 빨강, 하양 스티커(sticker) 가격 데이터
-
-starbucks_exchange_tiecket.csv: 상품 교환권(exchange ticket) 가격 데이터
+starbucks_exchange_tiecket.csv: 상품 교환권(exchange ticket) 가격 데이터(2020, 2021)
 
 ticket price: 교환권 완성본 가격, stickers-to-get-a-ticket price: 흰색 스티커 14장 + 빨강 스티커 3장의 합산 가격 
+
+중고나라에서 일자별 검색으로 획득
+
+2020년 이벤트 기간: 2020.05.21~2020.07.22
+2021년 이벤트 기간: 2020.05.11~2020.07.19
 
 
 
